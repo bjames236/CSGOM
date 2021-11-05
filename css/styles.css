@@ -11283,7 +11283,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #F87603, #0DF0DE) !important;
+  background: linear-gradient(45deg, #F35C0C, #1445EC) !important;
 }
 
 .font-alt {
@@ -11431,10 +11431,10 @@ section.cta:before {
   display: none;
 }
 .features-device-mockup .circle .gradient-start-color {
-  stop-color: #0DF0DE;
+  stop-color: #F35C0C;
 }
 .features-device-mockup .circle .gradient-end-color {
-  stop-color: #F29907;
+  stop-color: #1445EC;
 }
 .features-device-mockup .shape-1 {
   position: absolute;
